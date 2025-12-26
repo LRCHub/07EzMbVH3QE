@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "HEYA",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-26T12:25:00.250217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heya No Madobe",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/01_Heya_No_Madobe_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Down Heya (In the South)",
+      "artist": "YoungBloodZ",
+      "has_synced": false,
+      "path": "select/02_Down_Heya_(In_the_South)_YoungBloodZ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aoi Heya [青い部屋]",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/03_Aoi_Heya_[青い部屋]_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kuukyo na heya",
+      "artist": "MUCC",
+      "has_synced": false,
+      "path": "select/04_Kuukyo_na_heya_MUCC.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heya",
+      "artist": "The Black Skirts",
+      "has_synced": true,
+      "path": "select/05_Heya_The_Black_Skirts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heya!",
+      "artist": "Brymo",
+      "has_synced": true,
+      "path": "select/06_Heya!_Brymo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heya",
+      "artist": "Jeronimo",
+      "has_synced": false,
+      "path": "select/07_Heya_Jeronimo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shikakui Heya no Meiro",
+      "artist": "Callin'",
+      "has_synced": true,
+      "path": "select/08_Shikakui_Heya_no_Meiro_Callin'.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heya (feat. Ali Loka) [هي]",
+      "artist": "Blingos feat. Ali Loka",
+      "has_synced": true,
+      "path": "select/09_Heya_(feat._Ali_Loka)_[هي]_Blingos_feat._Ali_Loka.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heya (هي)",
+      "artist": "Blingos",
+      "has_synced": true,
+      "path": "select/10_Heya_(هي)_Blingos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Illa Heya",
+      "artist": "Amr Diab",
+      "has_synced": true,
+      "path": "select/11_Illa_Heya_Amr_Diab.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HEYA",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/12_HEYA_IVE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HEYA",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/13_HEYA_IVE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "HEYA",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/14_HEYA_IVE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "HEYA",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/15_HEYA_IVE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heya Hayaty",
+      "artist": "Amr Diab",
+      "has_synced": true,
+      "path": "select/16_Heya_Hayaty_Amr_Diab.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Heya Elnas",
+      "artist": "Tamer Ashour",
+      "has_synced": true,
+      "path": "select/17_Heya_Elnas_Tamer_Ashour.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEYA",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_HEYA_IVE.txt"
+    }
+  ]
+}
